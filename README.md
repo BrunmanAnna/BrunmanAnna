@@ -61,7 +61,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/BrunmanAnna/BrunmanAnna.github.io/refs/heads/main/certificate.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/BrunmanAnna/BrunmanAnna.github.io/refs/heads/main/certificate.png)
 
 <br>
 <br>
